@@ -1,0 +1,1 @@
+Sample net core app deployed using docker
